@@ -1,0 +1,72 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("../img/fundo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+nav {
+    height: 40px;
+    width: 100%;
+    background-color: #222;
+    color: white;
+}
+
+table,
+table caption {
+    background-color: aliceblue;
+}
+
+form {
+    background-color: rgba(31, 30, 30, 0.794);
+    color: white;
+    display: block;
+    align-items: center;
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    border: 0.2px solid goldenrod;
+    border-radius: 150px 0px 150px;
+    box-shadow: 10px 20px 10px #222;
+}
+
+form img {
+    height: 100px;
+    width: 100px;
+    margin-left: 120px;
+}
+
+form h2 {
+    color: goldenrod;
+    padding-left: 40px;
+}
+
+form input {
+    width: 50px;
+}
+
+form button {
+    margin-right: 20px;
+}
+
+form a {
+    color: goldenrod;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 2px;
+}
+
+div.menu {
+    color: white;
+    background-color: #222;
+}
